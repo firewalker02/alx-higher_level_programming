@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-    A script that fetches https://intranet.htbn.io/status
+    A script fetching https://intranet.htbn.io/status
 """
 
 
